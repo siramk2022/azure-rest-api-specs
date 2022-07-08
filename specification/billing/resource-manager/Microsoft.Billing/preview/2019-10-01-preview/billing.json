@@ -7567,7 +7567,9 @@
             "Invoice",
             "VoidNote",
             "TaxReceipt",
-            "CreditNote"
+            "CreditNote",
+            "Summary",
+            "Transactions"
           ],
           "readOnly": true,
           "x-ms-enum": {
